@@ -1,3 +1,8 @@
+
+chemistry
+physics
+mathematics
+technical drawing
 English 
 science 
 physics
