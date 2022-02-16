@@ -1,0 +1,4 @@
+chemistry
+physics
+mathematics
+technical drawing
